@@ -239,7 +239,7 @@ footer a:hover {
 
     /* //Header   */
     header {
-        background: url(/Assets/1.png);
+        background: url(assets/1.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
